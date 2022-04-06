@@ -6,7 +6,7 @@ struct clothe {
 };
 
 int main() {
-	clothe a[3] = {{2, "현수의 빤스"}, {1, "현수의 잠옷"}, {0, "태견이의 립스틱"}};
+	clothe a[3] = {{2, "C의 바지"}, {1, "B의 잠옷"}, {0, "A의 립스틱"}};
 	int index[4] = {0,};
 	
 	for(int i = 0; i < 3; i++) {
